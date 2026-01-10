@@ -7,7 +7,7 @@
 - Hi, I'm **Antonio Castro**. I am retired, but I enjoy programming in Python, specifically using the Pygame library.
 - I enjoy learning new things at my own pace. I’m starting to share some of my projects, generally under the MIT license.
 
-![Python + Pygame](python_pygame_logos_2.png)
+![Python + Pygame](python_pygame_logos_H.png)
 
 ## What I do nowadays
 

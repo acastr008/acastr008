@@ -7,7 +7,7 @@
 - Hola soy **Antonio Castro**.  Estoy jubilado, pero me entretiene programar en Python y más concretamente con la librería Pygame.
 - Disfruto aprendiendo cosas nuevas a mi ritmo. Estoy empezando a compartir parte de mis proyectos. Generalmen bajo licencia MIT.
 
-![Pyton + Pygame](python_pygame_logos_2.png)
+![Pyton + Pygame](python_pygame_logos_H.png)
 
 ## A que me dedico ahora
 
